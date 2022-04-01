@@ -26,9 +26,16 @@
 <br />
 <br />
 
-# 📫 How to reach me:
-[![LinkedIn](https://github.com/devicons/devicon/blob/v2.15.1/icons/linkedin/linkedin-original.svg" style="padding-right:10px)](https://www.linkedin.com/in/aleksandra-vesely/)
+# 📃 My projects
+Neural network model for face detection and recognition: [Repository](https://github.com/olaves97/Employee_recognition_system_using_deep_neural_network)  
 
+
+
+# 📫 How to reach me
+
+See my profile on LinkedIn and write to me via message or email! 😊  
+<br />
+[![LinkedIn](https://icons.iconarchive.com/icons/danleech/simple/32/linkedin-icon.png)](https://www.linkedin.com/in/aleksandra-vesely/)
 [![Gmail](https://icons.iconarchive.com/icons/dtafalonso/android-lollipop/32/Gmail-icon.png)](mailto:olavesely@gmail.com)
 
 <!---
