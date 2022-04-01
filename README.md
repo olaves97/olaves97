@@ -28,7 +28,7 @@
 
 # 📃 My projects
 Neural network model for face detection and recognition: [Repository](https://github.com/olaves97/Employee_recognition_system_using_deep_neural_network)  
-
+Lighting control module: [Repository](https://github.com/olaves97/Lighting_module_working_in_MQTT_protocol)
 
 
 # 📫 How to reach me
