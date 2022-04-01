@@ -27,13 +27,9 @@
 <br />
 
 # 📫 How to reach me:
-<img align="left" alt="LinkedIn" width="30px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/linkedin/linkedin-original.svg" style="padding-right:10px;" />
-Linkedin:
-  
-<br />
+[![LinkedIn](https://github.com/devicons/devicon/blob/v2.15.1/icons/linkedin/linkedin-original.svg" style="padding-right:10px)](https://www.linkedin.com/in/aleksandra-vesely/)
 
-<img align="left" alt="Gmail" width="30px" src="https://commons.wikimedia.org/wiki/File:Gmail_icon_(2020).svg" style="padding-right:10px;" />
-Email
+[![Gmail](https://icons.iconarchive.com/icons/dtafalonso/android-lollipop/32/Gmail-icon.png)](mailto:olavesely@gmail.com)
 
 <!---
 olaves97/olaves97 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
