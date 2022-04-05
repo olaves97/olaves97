@@ -21,9 +21,9 @@
 <img align="left" alt="GitLab" width="35px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/bash/bash-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Windows" width="35px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/windows8/windows8-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Linux" width="35px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/linux/linux-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Arduino" width="35px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/arduino/arduino-original.svg" style="padding-right:10px;" />  
+<img align="left" alt="Arduino" width="35px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/arduino/arduino-original.svg" style="padding-right:10px;" />
 </br>
-</br>  
+</br>
 
 ## 📃 My projects
 * Neural network model for face detection and recognition: [Repository](https://github.com/olaves97/Employee_recognition_system_using_deep_neural_network)  
