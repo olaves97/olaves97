@@ -1,13 +1,13 @@
 # 👋 Hi, I’m Aleksandra! Nice to meet you!  
 
-# 👀 About me  
+## 👀 About me  
   I learned to program from my studies and online courses. I’m interested in programming in Python and learning about new technologies. I am ambitious and motivated person,
   I like new challenges and I would love to work on some interesting projects. 
   
-# 🌱 Currently working on
+## 🌱 Currently working on
   I’m currently learning software testing, telecommunications and Python programming.  
 
-# 💻 Skills
+## 💻 Skills
 <img align="left" alt="Python" width="35px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/python/python-original-wordmark.svg" style="padding-right:10px;" />
 <img align="left" alt="C++" width="35px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/cplusplus/cplusplus-original.svg" style="padding-right:10px;" />
 <img align="left" alt="C" width="35px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/c/c-original.svg" style="padding-right:10px;" />
@@ -22,19 +22,17 @@
 <img align="left" alt="Windows" width="35px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/windows8/windows8-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Linux" width="35px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/linux/linux-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Arduino" width="35px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/arduino/arduino-original.svg" style="padding-right:10px;" />  
-<br />
+</br>
+</br>
 
-<br /> 
-
-# 📃 My projects
-Neural network model for face detection and recognition: [Repository](https://github.com/olaves97/Employee_recognition_system_using_deep_neural_network)  
-Lighting control module: [Repository](https://github.com/olaves97/Lighting_module_working_in_MQTT_protocol)
+## 📃 My projects
+* Neural network model for face detection and recognition: [Repository](https://github.com/olaves97/Employee_recognition_system_using_deep_neural_network)  
+* Lighting control module: [Repository](https://github.com/olaves97/Lighting_module_working_in_MQTT_protocol) 
 
 
-# 📫 How to reach me
-
+## 📫 How to reach me
 See my profile on LinkedIn and write to me via message or email! 😊  
-<br />
+</br>
 [![LinkedIn](https://icons.iconarchive.com/icons/danleech/simple/32/linkedin-icon.png)](https://www.linkedin.com/in/aleksandra-vesely/)
 [![Gmail](https://icons.iconarchive.com/icons/dtafalonso/android-lollipop/32/Gmail-icon.png)](mailto:olavesely@gmail.com)
 
