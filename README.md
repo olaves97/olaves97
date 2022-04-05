@@ -23,8 +23,6 @@
 <img align="left" alt="Linux" width="30px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/linux/linux-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Arduino" width="30px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/arduino/arduino-original.svg" style="padding-right:10px;" />  
 <br />
-<br />
-
 
 # 📃 My projects
 Neural network model for face detection and recognition: [Repository](https://github.com/olaves97/Employee_recognition_system_using_deep_neural_network)  
