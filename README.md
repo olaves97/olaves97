@@ -5,7 +5,8 @@
   I like new challenges and I would love to work on some interesting projects. 
   
 ## Currently working on
-  I’m currently working on my own project: Adopt a pet - a web aplication with helpful Quiz: [Repository](https://github.com/olaves97/Pet_adoption_project). 
+  I’m currently working on my own project: 
+  * Adopt a pet - a web aplication with helpful Quiz: [Repository](https://github.com/olaves97/Pet_adoption_project). 
 
 
 ## Skills
