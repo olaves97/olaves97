@@ -1,13 +1,14 @@
-# 👋 Hi, I’m Aleksandra! Nice to meet you!  
+# Hi, I’m Aleksandra! Nice to meet you!  
 
-## 👀 About me  
+## About me  
   I learned to program from my studies and online courses. I’m interested in programming in Python and learning about new technologies. I am ambitious and motivated person,
   I like new challenges and I would love to work on some interesting projects. 
   
-## 🌱 Currently working on
-  I’m currently learning software testing, telecommunications and Python programming.  
+## Currently working on
+  I’m currently working on my own project: Adopt a pet - a web aplication with helpful Quiz: [Repository](https://github.com/olaves97/Pet_adoption_project). 
 
-## 💻 Skills
+
+## Skills
 <img align="left" alt="Python" width="30px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/python/python-original-wordmark.svg" style="padding-right:10px;" />
 <img align="left" alt="C++" width="30px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/cplusplus/cplusplus-original.svg" style="padding-right:10px;" />
 <img align="left" alt="C" width="30px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/c/c-original.svg" style="padding-right:10px;" />
@@ -25,7 +26,7 @@
 </br>
 </br>
 
-## 📃 My projects
+## My projects
 * Neural network model for face detection and recognition: [Repository](https://github.com/olaves97/Employee_recognition_system_using_deep_neural_network)  
 * Lighting control module: [Repository](https://github.com/olaves97/Lighting_module_working_in_MQTT_protocol) 
 
