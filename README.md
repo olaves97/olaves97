@@ -3,11 +3,12 @@
 ## About me  
   I learned to program from my studies and online courses. I’m interested in programming in Python and learning about new technologies. I am ambitious and motivated person,
   I like new challenges and I would love to work on some interesting projects. 
-  
+</br>
+</br> 
 ## Currently working on
   I’m currently working on my own project: 
   * Adopt a pet - a web application with helpful Quiz: [Repository](https://github.com/olaves97/Pet_adoption_project). 
-
+</br>
 
 ## Skills
 <img align="left" alt="Python" width="30px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/python/python-original-wordmark.svg" style="padding-right:10px;" />
@@ -33,7 +34,7 @@
 * Neural network model for face detection and recognition: [Repository](https://github.com/olaves97/Employee_recognition_system_using_deep_neural_network)  
 * Lighting control module: [Repository](https://github.com/olaves97/Lighting_module_working_in_MQTT_protocol)
 * **[in progress]** Adopt a pet - a web application with helpful Quiz: [Repository](https://github.com/olaves97/Pet_adoption_project). 
-
+</br>
 
 ## 📫 How to reach me
 See my profile on LinkedIn and write to me via message or email! 😊  
